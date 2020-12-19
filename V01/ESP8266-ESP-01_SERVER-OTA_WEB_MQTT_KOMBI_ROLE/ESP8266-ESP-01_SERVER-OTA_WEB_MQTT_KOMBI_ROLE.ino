@@ -37,9 +37,9 @@
 
 
 
-//#define FIREBASE_HOST "miot-esp01.firebaseio.com"
+//#define FIREBASE_HOST "miot-esp8266.firebaseio.com"
 //#define FIREBASE_AUTH "a2Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj"
-//String FIREBASE_HOSTA ="miot-esp01";
+//String FIREBASE_HOSTA ="miot-esp8266";
 //String FIREBASE_AUTH ="a2Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj";
 String hosttmp;
 String anahtartmp;
