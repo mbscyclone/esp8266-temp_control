@@ -1,7 +1,7 @@
 // MQTT OLACAK FİREBASE YOK RESET ÇEKİP DURMASIN.
 // MQTT İLE MESAJ YOLLAMAYA HAZIR.
 // 192.168.2.105
-//http://192.168.4.1/ssidset?ssid=Zyxel&pass=bebedede14
+//http://192.168.4.1/ssidset?ssid=Zyxel&pass=abcddede14
 //
 // esp role alttaki direnci sök.   bir de 10k ile 3v3 ü aşırt 3. bacağına bağla
 // bordun üstünden bakarken
@@ -37,10 +37,10 @@
 
 
 
-//#define FIREBASE_HOST "miot-esp.firebaseio.com"
-//#define FIREBASE_AUTH "22Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj"
-//String FIREBASE_HOSTA ="miot-esp1";
-//String FIREBASE_AUTH ="22Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj";
+//#define FIREBASE_HOST "miot-esp01.firebaseio.com"
+//#define FIREBASE_AUTH "a2Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj"
+//String FIREBASE_HOSTA ="miot-esp01";
+//String FIREBASE_AUTH ="a2Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj";
 String hosttmp;
 String anahtartmp;
 
