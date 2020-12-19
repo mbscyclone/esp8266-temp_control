@@ -112,8 +112,8 @@ static const unsigned char PROGMEM off_logo16_glcd_bmp[] =
   B00000000, B00000000
 };
 
-String FIREBASE_HOSTA = "miot-espXY.YY.YY";
-String FIREBASE_AUTH = "!22Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj";
+String FIREBASE_HOSTA = "miot-espXY.YY.YY";  // change thiis
+String FIREBASE_AUTH = "!22Gm6knh69XRDNv1qt10smuIGJl97bYqlaKAIXyj";  // change this
 String hosttmp;
 String anahtartmp;
 
